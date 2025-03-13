@@ -13,3 +13,11 @@
 **MENTOR**    : NEELA SANTHOSH
 
 #DESCRIPITION OF TASK LIKE HOW YOU PERFORMED AMD WHAT YOU HAVE DONE AND PASTE PICTURES OF OUTPUT 
+
+
+**OUTPUT
+
+![Image](https://github.com/user-attachments/assets/6b181abf-bd00-4ac1-b0ec-87ee8906cf61)
+
+
+
